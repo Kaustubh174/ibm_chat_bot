@@ -1,3 +1,6 @@
 # Chat bot using IBM Watson
 
-Created a chat bot using IBM watson. The chat bot is created for a flower 
+Created a chat bot using IBM watson. The chat bot is created for a flower store.
+Here is the trial link you can use
+https://hive0.wordbox.intela.io/kaustubhjadhav174/
+
